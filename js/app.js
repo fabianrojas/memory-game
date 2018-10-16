@@ -45,7 +45,7 @@ function cardClick(event){
             }
             else {
                 card2 = thisCard;
-                node1 = thisNode;
+                node2 = thisNode;
                doCardsMatch(card1, card2, node1, node2);
             }
         }  
